@@ -39,7 +39,6 @@
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [LINKEDIN](https://www.linkedin.com/in/sonam-kumari-45a375273/)  
-- 🌐 **Portfolio:** [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)  
+- 💼 **LinkedIn:** [LINKEDIN](https://www.linkedin.com/in/sonam-kumari-45a375273/)   
 
 ⭐ *Always learning. Always building.*
