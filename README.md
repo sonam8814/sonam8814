@@ -30,8 +30,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonam8814&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonam8814&theme=tokyonight&hide_border=true" />
 </p>
 
